@@ -1,4 +1,4 @@
-#  Artist + Creative Technologist
+##  Artist + Creative Technologist
 
 _Not a coder, but I code — always learning + experimenting :)_
 
